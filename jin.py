@@ -1,2 +1,3 @@
 HI BYE
-khana khake jana ha
+khana khake jana ha\
+chasnge from min
